@@ -57,10 +57,4 @@ An LCD screen displays the current soil moisture level and operation status.
 1. Upload the code using Arduino IDE.  
 2. Pair HC-06 with your smartphone (default password: 1234).  
 3. Check the current soil moisture and system status on the LCD.  
-4. Pump will automatically activate when soil is dry.  
-
----
-
-## 📜 라이선스 (License)
-이 프로젝트는 교육 및 개인 학습 목적에 자유롭게 사용할 수 있습니다.  
-This project is open for educational and personal learning purposes.  
+4. Pump will automatically activate when soil is dry.    
